@@ -5,4 +5,5 @@ quest: key(?)
 dictate: mode.enable("dictation")
 over: mode.enable("command")
 drowse: speech.disable()
-
+jolt: speech.enable()
+void: key(space)
